@@ -1,2 +1,0 @@
-# TinkerPRO
-Full Tinker Assembly
